@@ -5,7 +5,6 @@ import streamlit as st
 from apikey import apikey
 from streamlit_carousel import carousel
 
-
 # Initialize your image generation client
 client=OpenAI(api_key=apikey)
 
