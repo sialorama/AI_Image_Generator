@@ -4,21 +4,21 @@ Cette application permet aux utilisateurs de générer des images basées sur de
   
 ## Fonctionnalités principales de l'application :
   
-** Saisie de Description Textuelle : **
+**Saisie de Description Textuelle :**
 
 Les utilisateurs peuvent entrer une description textuelle de l'image qu'ils souhaitent générer dans un champ de saisie.
 
-** Sélection du Nombre d'Images : **
+**Sélection du Nombre d'Images :**
 
 Les utilisateurs peuvent spécifier le nombre d'images qu'ils veulent générer en utilisant un sélecteur de nombre.
 
-** Génération d'Images : **
+**Génération d'Images :**
 
 En cliquant sur le bouton "Générer", l'application envoie une requête à l'API DALL-E-3 pour générer les images basées sur la description fournie.
 
-** Affichage des Images Générées : **
+**Affichage des Images Générées :**
 
 Les images générées sont affichées dans un carrousel, permettant aux utilisateurs de les visualiser de manière séquentielle.
 
-### Remarques:
+**Remarques:**
 Assurez-vous que votre fichier apikey.py contient correctement votre clé API OpenAI.
