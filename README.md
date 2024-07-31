@@ -1,4 +1,4 @@
-# AI_Image_Generator
+# AI Image Generator
 
 Cette application permet aux utilisateurs de générer des images basées sur des descriptions textuelles en utilisant l'API DALL-E-3 d'OpenAI.  
   
