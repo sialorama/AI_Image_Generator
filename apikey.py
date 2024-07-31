@@ -1,2 +1,2 @@
 # API keys
-apikey = "" # Replace with your own OpanAI API Key
+apikey = "My_OpenAI_API_Key" # Replace with your own OpanAI API Key
